@@ -2,73 +2,26 @@
   {
     "id":1,
     "type":"Territory Areas",
-    "title":"Lean Bois",
-    "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
+    "title":"Ballas",
+    "notes":"East Side Ballas Gang bl 9iyada dyal GOGO.",
+	"wiki_link":"https://",
     "order":1,
 	"strokecolor":"#FF0000",
 	"fillcolor":"#FF0000",
     "latlngarray": [
-{"lat": 62.957, "lng": -125.134},
-{"lat": 62.802, "lng": -125.947},
-{"lat": 62.741, "lng": -126.034},
-{"lat": 62.111, "lng": -124.376},
-{"lat": 62.402, "lng": -123.771}
+{"lat": 62.794, "lng": -126.1069},
+{"lat": 62.970, "lng": -125.114},
+{"lat": 62.334, "lng": -123.587},
+{"lat": 62.704, "lng": -122.949},
+{"lat": 62.395, "lng": -122.092},
+{"lat": 61.814, "lng": -123.125},
+{"lat": 61.611, "lng": -123.246},
+{"lat": 61.611, "lng": -123.729},
+{"lat": 62.093, "lng": -124.389},
 ]
   },
   {
     "id":2,
-    "type":"Territory Areas",
-    "title":"Ballas",
-    "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
-    "order":1,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
-    "latlngarray": [
-		{"lat": 62.109, "lng": -124.376},
-		{"lat": 61.876, "lng": -123.929},
-		{"lat": 61.637, "lng": -123.698},
-		{"lat": 61.637, "lng": -123.291},
-		{"lat": 61.835, "lng": -123.181},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.331, "lng": -123.917}
-	]
-  },
-  {
-    "id":3,
-    "type":"Territory Areas",
-    "title":"Grove Traphouse",
-    "notes":"Once owned by the LB, now under Ballas control",
-    "order":2,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
-    "latlngarray": [
-		{"lat": 62.711, "lng": -122.919},
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.272, "lng": -122.377},
-		{"lat": 62.418, "lng": -122.139}
-	]
-  },
-  {
-    "id":4,
-    "type":"Territory Areas",
-    "title":"Prune Street",
-    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
-    "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
-    "latlngarray": [
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.272, "lng": -122.377}
-	]
-  },
-  {
-    "id":5,
     "type":"Territory Areas",
     "title":"Aztecas",
     "notes":"It's a blue world. Or, more like a blue street. Also north side cuh. Controls the Traphouse in the area too",
@@ -90,7 +43,7 @@
     }
   },
   {
-    "id":6,
+    "id":3,
     "type":"Territory Areas",
     "title":"GSF",
     "notes":"Ay you know we always down to chill.",
@@ -114,7 +67,7 @@
     }
   },
   {
-    "id":7,
+    "id":4,
     "type":"Territory Areas",
     "title":"Vagos",
     "notes":"After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today. His signature line is IM TELLIN YOU PUTO",
@@ -144,7 +97,7 @@
     }
   },
   {
-    "id":8,
+    "id":5,
     "type":"Territory Areas",
     "title":"The Smeltery",
     "notes":"Claimed by the Vagos, although they usually don't hold it down.",
@@ -167,7 +120,7 @@
 ]
   },
   {
-    "id":15,
+    "id":6,
     "type":"Territory Areas",
     "title":"Pawnshop",
     "notes":"Who know who owns this place anymore",
@@ -185,7 +138,7 @@
 ]
   },
   {
-    "id":9,
+    "id":7,
     "type":"Territory Areas",
     "title":"Aztecas East Side",
     "notes":"More territory claimed by Aztecas",
@@ -204,7 +157,7 @@
 	]
   },
   {
-    "id":10,
+    "id":8,
     "type":"Territory Areas",
     "title":"Bondi Boys MC",
     "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
@@ -226,7 +179,7 @@
 	]
   },
   {
-    "id":11,
+    "id":9,
     "type":"Territory Areas",
     "title":"Little Seoul",
     "notes":"Koreans claimed this area also a popular gas station here.",
@@ -245,7 +198,7 @@
 	]
   },
   {
-    "id":12,
+    "id":10,
     "type":"Territory Areas",
     "title":"Ace King",
     "notes":"Koreans. Blackjack is hosted here.",
@@ -261,7 +214,7 @@
 	]
   },
   {
-    "id":13,
+    "id":11,
     "type":"Territory Areas",
     "title":"The Casino",
     "notes":"Koreans, but the casino is not used very much as nothing actually works.",
@@ -277,7 +230,7 @@
 	]
   },
   {
-    "id":14,
+    "id":12,
     "type":"Territory Areas",
     "title":"Quickfix",
     "notes":"Fill me in :)",
@@ -293,7 +246,7 @@
 	]
   },
   {
-    "id":16,
+    "id":13,
     "type":"Territory Areas",
     "title":"The Russians",
     "notes":"Da Comrade, you may not like us, but you must like vodka. Protecting/taxing the Wizard",
@@ -311,7 +264,7 @@
 	]
   },
   {
-    "id":17,
+    "id":14,
     "type":"Territory Areas",
     "title":"H.O.A. / Mirror Park",
     "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
@@ -333,7 +286,7 @@
 	]
   },
   {
-    "id":18,
+    "id":15,
     "type":"Territory Areas",
     "title":"The Lost MC",
     "notes":"Moved from the Quickfix clubhouse, the bikers now have a new building in Stab City",
@@ -349,7 +302,7 @@
 	]
   },
   {
-    "id":20,
+    "id":16,
     "type":"Territory Areas",
     "title":"The Scrapyard",
     "notes":"Shared between the bikers, Ashenfell and BBC at different times of the day",
@@ -364,7 +317,7 @@
 	]
   },
     {
-    "id":25,
+    "id":17,
     "type":"Territory Areas",
     "title":"Sandy Shores",
     "notes":"Don't get robbed by the bikers, also watch for angry locals.",
